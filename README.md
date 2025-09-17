@@ -7,6 +7,11 @@
 Data-driven candidate with a background in **Banking**, transitioning into **Data Analytics**. Skilled in **SQL, Excel, Power BI**, and **statistical research methodologies**. Passionate about using data to solve business challenges and drive growth.
 
 ## 💻 Projects
+### [Sales Performance and Market Expansion for A Superstore | Power BI](https://github.com/vbloan/Sales-Performance-and-Market-Expansion-for-A-Superstore-Power-BI)
+This project aims to build a Power BI dashboard using the Superstore dataset to provide a comprehensive analysis of sales performance.
+
+---
+
 ### [Customer Behavior Analysis for AdventureWorks \| SQL](https://github.com/vbloan/Customer-Behavior-Analysis-for-AdventureWorks-SQL)
 This project analyzes a dataset using SQL to extract insights about customer behaviors and deliver data-driven recommendations to enhance customer loyalty and optimize sales strategies.
 
